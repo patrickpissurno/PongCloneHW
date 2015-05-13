@@ -1,0 +1,2 @@
+C:\Users\patrick.pissurno\Desktop\XNA\Pong\Pong\PongContent\obj\x86\Debug\PongContent.contentprojResolveAssemblyReference.cache
+C:\Users\seeduc\Desktop\Pong\Pong\PongContent\obj\x86\Debug\PongContent.contentprojResolveAssemblyReference.cache
